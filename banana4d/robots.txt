@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http:whoiskevin.com/sitemap.xml
+Sitemap: http://whoiskevin.com/banana4d/sitemap.xml
