@@ -10,10 +10,14 @@
 <url>
   <loc>http://whoiskevin.com/</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+      <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
 <url>
   <loc>http://whoiskevin.com/amp/index.html</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+            <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
       <url>
   <loc>http://whoiskevin.com/banana4d/index.html</loc>
@@ -22,30 +26,44 @@
       <url>
   <loc>http://whoiskevin.com/bo177/index.html</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+                  <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
       <url>
   <loc>http://whoiskevin.com/delunatoto/index.html/</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+                  <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
     <url>
   <loc>http://whoiskevin.com/gopek178/index.html/</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+                <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
     <url>
   <loc>http://whoiskevin.com/mentaltoto/index.html/</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+                <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
     <url>
   <loc>http://whoiskevin.com/monet11/index.html/</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+                <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
     <url>
   <loc>http://whoiskevin.com/tanduktoto/index.html/</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+                <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
           <url>
   <loc>http://whoiskevin.com/bo177/index.html/</loc>
   <lastmod>2024-04-18T18:23:03+00:00</lastmod>
+                      <changefreq>Weekly</changefreq>
+      <priority>0.8</priority>
 </url>
 
 </urlset>
